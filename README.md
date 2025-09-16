@@ -2,7 +2,7 @@
 
 
 
-<figure><img src=".gitbook/assets/logo_getblobs_naws (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/logo_getblobs_naws.svg" alt=""><figcaption></figcaption></figure>
 
 GetBlobs is an innovative online platform for creators to upload, share, and trade digital content effortlessly. By leveraging P2P crypto payments, GetBlobs offers a seamless and creator-first approach to monetizing digital assets, eliminating the need for traditional payment processes.
 
