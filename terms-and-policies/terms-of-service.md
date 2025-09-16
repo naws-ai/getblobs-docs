@@ -1,5 +1,6 @@
 # Terms of Service
 
+
 ### 1.1 Purpose
 
 * These Terms of Service (“Terms”) govern your use of GetBlobs (“Service”), provided by FINNACLE INC. (“Company”)

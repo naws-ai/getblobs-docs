@@ -1,5 +1,6 @@
 # Privacy Policy
 
+
 ### 1.1 Information We Collect
 
 The Company may collect the following information to operate the Service and identify users:
