@@ -26,4 +26,3 @@
 ## News
 
 * [The Explore feature is being launched](news/the-explore-feature-is-being-launched.md)
-* [New Explore Feature Coming Soon!](news/new-explore-feature-coming-soon.md)
