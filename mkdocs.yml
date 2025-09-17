@@ -1,6 +1,7 @@
 site_name: GetBlobs Docs
 site_url: https://naws-ai.github.io/getblobs-docs/
-theme: readthedocs
+theme: 
+  name: material
 
 nav:
   - 'GetBlobs Overview': 'index.md'
