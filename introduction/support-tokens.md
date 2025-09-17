@@ -1,10 +1,6 @@
----
-description: Supported Token List on GetBlobs
----
-
 # Support Tokens
 
-
+### Supported Token List on GetBlobs
 
 Below is a list of tokens currently supported on Binance Smart Chain (Chain ID: 56).
 
