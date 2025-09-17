@@ -9,7 +9,6 @@
 
 GetBlobs is an innovative online platform for creators to upload, share, and trade digital content effortlessly. By leveraging P2P crypto payments, GetBlobs offers a seamless and creator-first approach to monetizing digital assets, eliminating the need for traditional payment processes.
 
-> [!NOTE]
 > ### What is a Blob?
 > 
 > "Blob" stands for "Binary Large Object," a term commonly used in computer science to describe large chunks of data like images, audio files, videos, and 3D models.  
