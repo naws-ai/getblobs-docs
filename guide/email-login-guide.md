@@ -13,7 +13,9 @@ With GetBlobs, you don’t need to set up a separate crypto wallet like MetaMask
 3. Check your email inbox and verify your email.
 4. Once verified, a Privy wallet is automatically created and linked to your email.
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Using Your Privy Wallet
 
