@@ -10,6 +10,7 @@
 
 * [Creators Guide](guide/creators-guide.md)
 * [Email Login Guide](guide/email-login-guide.md)
+* [Google Login Guide](guide/email-login-guide-1.md)
 * [Wallet Login Guide](guide/wallet-login-guide.md)
 * [⚫ Buyers Guide](guide/buyers-guide.md)
 
