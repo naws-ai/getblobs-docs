@@ -1,8 +1,8 @@
 # GetBlobs Overview
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="false"><figure><img src=".gitbook/assets/model.jpg" alt=""><figcaption></figcaption></figure></div>
 
-GetBlobs is an innovative online platform for creators to upload, share, and trade digital content effortlessly. By leveraging P2P crypto payments, GetBlobs offers a seamless and creator-first approach to monetizing digital assets, eliminating the need for traditional payment processes.
+[GetBlobs](https://getblobs.com/) is an innovative online platform for creators to upload, share, and trade digital content effortlessly. By leveraging P2P crypto payments, GetBlobs offers a seamless and creator-first approach to monetizing digital assets, eliminating the need for traditional payment processes.
 
 > #### What is a Blob?
 >
