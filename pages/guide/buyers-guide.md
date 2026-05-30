@@ -1,6 +1,3 @@
-﻿---
-hidden: true
----
-
+﻿
 # ⚫ Buyers Guide
 

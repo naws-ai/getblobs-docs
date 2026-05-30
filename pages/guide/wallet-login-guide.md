@@ -1,7 +1,4 @@
-﻿---
-description: Guide for users who are not familiar with creating a crypto wallet
----
-
+﻿
 # Wallet Login Guide
 
 ### 1. Metamask Wallet Guide
