@@ -4,5 +4,11 @@ export default {
   guide: 'Guide',
   'help-center': 'Help Center',
   news: 'News',
-  'terms-and-policies': 'Terms & Policies'
+  'terms-and-policies': 'Terms & Policies',
+  getblobs: {
+    title: 'GetBlobs',
+    type: 'page',
+    href: 'https://getblobs.com',
+    newWindow: true
+  }
 }
