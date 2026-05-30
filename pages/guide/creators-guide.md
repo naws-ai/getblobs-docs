@@ -1,16 +1,16 @@
-# Creators Guide
+﻿# Creators Guide
 
 ### STEP 1. Login to your account and name your store
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 2. Connect Social Account to verify
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 ### STEP 3. Upload your first Blob
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 1. Choose a compelling name and set the price for your Blob.
 2. Write a description that highlights what makes your Blob special.

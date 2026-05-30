@@ -1,4 +1,4 @@
-# Email Login Guide
+﻿# Email Login Guide
 
 ### 1. Privy Wallet Guide
 
@@ -19,7 +19,7 @@ If the email you use for [Google Login](email-login-guide-1.md) is the same as t
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Using Your Privy Wallet
 
