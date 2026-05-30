@@ -23,6 +23,8 @@ const config: DocsThemeConfig = {
   },
   project: { link: 'https://github.com/naws-ai/getblobs-docs' },
   docsRepositoryBase: 'https://github.com/naws-ai/getblobs-docs/tree/main/pages',
+  feedback: { content: null },
+  editLink: { component: null },
   footer: { content: '© GetBlobs' },
   darkMode: true
 }
