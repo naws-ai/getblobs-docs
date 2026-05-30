@@ -16,7 +16,7 @@ MetaMask is a popular cryptocurrency wallet that allows users to store, send, an
 2. Click **Get MetaMask** and choose the appropriate browser extension (Chrome, Firefox, Edge, or Brave).
 3. Follow the installation prompts and add MetaMask to your browser.
 
-![](/assets/image (60).png)
+![](/assets/image%20(60).png)
 
 ### 3. Setting Up a Wallet
 

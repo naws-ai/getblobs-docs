@@ -2,15 +2,15 @@
 
 ### STEP 1. Login to your account and name your store
 
-![](/assets/image (54).png)
+![](/assets/image%20(54).png)
 
 ### STEP 2. Connect Social Account to verify
 
-![](/assets/image (53).png)
+![](/assets/image%20(53).png)
 
 ### STEP 3. Upload your first Blob
 
-![](/assets/image (14).png)
+![](/assets/image%20(14).png)
 
 1. Choose a compelling name and set the price for your Blob.
 2. Write a description that highlights what makes your Blob special.
