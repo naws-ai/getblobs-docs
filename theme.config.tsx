@@ -4,7 +4,7 @@ const config: DocsThemeConfig = {
   logo: (
     <>
       <img src="/logo.svg" alt="GetBlobs" style={{ height: 22 }} />
-      <span style={{ marginLeft: 8, fontWeight: 400, fontSize: 14, opacity: 0.5, letterSpacing: '0.02em' }}>Docs</span>
+      <span style={{ marginLeft: 8, fontWeight: 600, fontSize: 16 }}>Docs</span>
     </>
   ),
   head: (
