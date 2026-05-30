@@ -1,13 +1,13 @@
 # Contact Us
 
-Service Inquiries
+## Service Inquiries
 
-> **official@getblobs.com**
+**official@getblobs.com**
 
-P2P Crypto Payment System Inquiries
+## P2P Crypto Payment System
 
-> **official@naws.ai**
+**official@naws.ai**
 
-Telegram Community
+## Community
 
-{% embed url="https://t.me/NAWSofficial" %}
+- Telegram: [https://t.me/NAWSofficial](https://t.me/NAWSofficial)

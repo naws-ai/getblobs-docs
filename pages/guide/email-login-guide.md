@@ -1,36 +1,28 @@
 # Email Login Guide
 
-### 1. Privy Wallet Guide
+## About Privy Wallet
 
-With GetBlobs, you don’t need to set up a separate crypto wallet like MetaMask. Our integration with Privy allows you to create and manage a wallet automatically using just your email.
+With GetBlobs, you don't need a separate crypto wallet like MetaMask. Privy automatically creates and manages a wallet using just your email.
 
-### 2. Creating a Wallet with Privy
+## How to Log In
 
-#### Email-Based Wallet Creation
-
-1. Visit [GetBlobs](https://getblobs.com) and click **Sign Up**.
+1. Visit [GetBlobs](https://getblobs.com) and click **Login**.
 2. Enter your email address and click **Submit**.
-3. Check your email inbox and verify your email.
-4. Once verified, a Privy wallet is automatically created and linked to your email.
+3. Check your inbox and verify your email.
+4. Once verified, a Privy wallet is automatically created and linked to your account.
 
-> **Info**
-If the email you use for [Google Login](email-login-guide-1.md) is the same as the one used for [Email Login](email-login-guide.md), the system will securely recognize them as one account.
+![Privy login modal](/assets/image-1.png)
 
+> If the email you use for Google Login is the same as Email Login, the system will recognize them as one account.
 
+## Using Your Privy Wallet
 
+- Privy automatically creates and links a crypto wallet when you log in.
+- You can export your wallet keys. Store them safely (e.g., written on paper in a secure location).
 
-![](/assets/image-1.png)
-
-### 3. Using Your Privy Wallet
-
-* Privy is a secure wallet infrastructure service that automatically creates and links a crypto wallet when you log in.
-* You can **export your wallet keys** and are strongly advised to store them safely, such as writing them down on paper and keeping them secure.
-
-### 4. Selling Your Blobs
+## Start Selling
 
 1. Click **Sell Your Blob** on the homepage.
 2. Upload your digital asset and set a price.
 3. Your item will be listed in the marketplace.
-4. Once sold, funds will be transferred to your Privy wallet.
-
-### Once connected, you are ready to use GetBlobs!
+4. Once sold, funds transfer directly to your Privy wallet.
