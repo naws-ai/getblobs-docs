@@ -6,7 +6,7 @@ export default {
   news: 'News',
   'terms-and-policies': 'Terms & Policies',
   getblobs: {
-    title: 'GetBlobs',
+    title: 'Go to App →',
     type: 'page',
     href: 'https://getblobs.com',
     newWindow: true
