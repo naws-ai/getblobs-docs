@@ -3,8 +3,8 @@ import type { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: (
     <>
-      <img src="/logo.svg" alt="GetBlobs" style={{ height: 24 }} />
-      <span style={{ marginLeft: 8, fontWeight: 600, fontSize: 14 }}>Docs</span>
+      <img src="/logo.svg" alt="GetBlobs" style={{ height: 18 }} />
+      <span style={{ marginLeft: 6, fontWeight: 500, fontSize: 13, opacity: 0.6 }}>Docs</span>
     </>
   ),
   head: (
