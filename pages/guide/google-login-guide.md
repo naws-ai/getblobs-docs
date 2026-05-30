@@ -18,7 +18,7 @@ If the email you use for [Google Login](email-login-guide-1.md) is the same as t
 
 
 
-![](/assets/image%20(1).png)
+![](/assets/image-1.png)
 
 ### 3. Using Your Privy Wallet
 

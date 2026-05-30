@@ -1,11 +1,1 @@
-﻿# GetBlobs Documentation
-
-Welcome to the GetBlobs documentation. GetBlobs is a Web3 digital goods P2P marketplace on BNB Smart Chain.
-
-## Sections
-
-- [Introduction](/introduction) — Core features and supported tokens
-- [Guide](/guide) — How to buy, sell, and connect
-- [Help Center](/help-center) — FAQs and contact
-- [News](/news) — Updates and announcements
-- [Terms & Policies](/terms-and-policies) — Legal
+﻿# GetBlobs Overview  ![](/assets/image-11.png)  [GetBlobs](https://getblobs.com/) is an innovative online platform for creators to upload, share, and trade digital content effortlessly. By leveraging P2P crypto payments, GetBlobs offers a seamless and creator-first approach to monetizing digital assets, eliminating the need for traditional payment processes.  > #### What is a Blob? > > "Blob" stands for "Binary Large Object," a term commonly used in computer science to describe large chunks of data like images, audio files, videos, and 3D models.\ > At GetBlobs, the concept of "Blob" is expanded to include all forms of creative digital assets, representing the unique ideas and creativity of their creators.
