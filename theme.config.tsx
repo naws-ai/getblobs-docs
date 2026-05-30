@@ -3,8 +3,8 @@ import type { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: (
     <>
-      <img src="/logo.svg" alt="GetBlobs" style={{ height: 18 }} />
-      <span style={{ marginLeft: 6, fontWeight: 500, fontSize: 13, opacity: 0.6 }}>Docs</span>
+      <img src="/logo.svg" alt="GetBlobs" style={{ height: 22 }} />
+      <span style={{ marginLeft: 8, fontWeight: 400, fontSize: 14, opacity: 0.5, letterSpacing: '0.02em' }}>Docs</span>
     </>
   ),
   head: (
@@ -12,16 +12,13 @@ const config: DocsThemeConfig = {
       <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
       <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
       <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      <link href="https://fonts.googleapis.com/css2?family=Wix+Madefor+Display:wght@400..800&display=swap" rel="stylesheet" />
+      <style>{`body, .nextra-content { font-family: 'Wix Madefor Display', sans-serif; }`}</style>
     </>
   ),
-  navbar: {
-    extraContent: (
-      <a href="https://getblobs.com" target="_blank" rel="noreferrer" style={{ fontSize: 13, opacity: 0.6 }}>
-        ← GetBlobs
-      </a>
-    )
-  },
-  project: { link: 'https://github.com/naws-ai/getblobs-docs' },
+  project: { link: 'https://getblobs.com' },
   docsRepositoryBase: 'https://github.com/naws-ai/getblobs-docs/tree/main/pages',
   feedback: { content: null },
   editLink: { component: null },
