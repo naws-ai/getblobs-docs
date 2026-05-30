@@ -14,6 +14,13 @@ const config: DocsThemeConfig = {
       <link rel="shortcut icon" href="/favicon.ico" />
     </>
   ),
+  navbar: {
+    extraContent: (
+      <a href="https://getblobs.com" target="_blank" rel="noreferrer" style={{ fontSize: 13, opacity: 0.6 }}>
+        ← GetBlobs
+      </a>
+    )
+  },
   project: { link: 'https://github.com/naws-ai/getblobs-docs' },
   docsRepositoryBase: 'https://github.com/naws-ai/getblobs-docs/tree/main/pages',
   footer: { content: '© GetBlobs' },
