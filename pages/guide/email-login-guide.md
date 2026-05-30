@@ -1,4 +1,4 @@
-﻿# Email Login Guide
+# Email Login Guide
 
 ### 1. Privy Wallet Guide
 
@@ -13,9 +13,9 @@ With GetBlobs, you don’t need to set up a separate crypto wallet like MetaMask
 3. Check your email inbox and verify your email.
 4. Once verified, a Privy wallet is automatically created and linked to your email.
 
-{% hint style="info" %}
+> **Info**
 If the email you use for [Google Login](email-login-guide-1.md) is the same as the one used for [Email Login](email-login-guide.md), the system will securely recognize them as one account.
-{% endhint %}
+
 
 
 

@@ -1,4 +1,4 @@
-﻿# Creators Guide
+# Creators Guide
 
 ### STEP 1. Login to your account and name your store
 

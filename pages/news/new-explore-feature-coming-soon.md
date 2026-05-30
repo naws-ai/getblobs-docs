@@ -1,4 +1,4 @@
-﻿# New Explore Feature Coming Soon!
+# New Explore Feature Coming Soon!
 
 
 

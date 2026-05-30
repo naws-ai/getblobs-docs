@@ -1,4 +1,4 @@
-﻿# Contact Us
+# Contact Us
 
 Service Inquiries
 

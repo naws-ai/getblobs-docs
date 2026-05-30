@@ -1,4 +1,4 @@
-﻿# Privacy Policy
+# Privacy Policy
 
 
 ### 1.1 Information We Collect

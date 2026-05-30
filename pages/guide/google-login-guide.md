@@ -1,4 +1,4 @@
-﻿# Google Login Guide
+# Google Login Guide
 
 ### 1. Privy Wallet Guide
 
@@ -12,9 +12,9 @@ With GetBlobs, you don’t need to set up a separate crypto wallet like MetaMask
 2. Select **Google Login** and sign in with your Google account.
 3. Your Google account will be linked, and a Privy wallet is automatically created.
 
-{% hint style="info" %}
+> **Info**
 If the email you use for [Google Login](email-login-guide-1.md) is the same as the one used for [Email Login](email-login-guide.md), the system will securely recognize them as one account.
-{% endhint %}
+
 
 
 

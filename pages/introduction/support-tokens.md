@@ -1,4 +1,4 @@
-﻿# Support Tokens
+# Support Tokens
 
 ## Supported Token List on GetBlobs
 

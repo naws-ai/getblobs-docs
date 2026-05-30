@@ -1,4 +1,4 @@
-﻿# FAQs
+# FAQs
 
 ### What kind of platform is Getlbobs, and how does it operate?
 

@@ -1,4 +1,4 @@
-export default {
+﻿export default {
   index: 'Home',
   introduction: 'Introduction',
   guide: 'Guide',

@@ -1,3 +1,3 @@
-﻿
+
 # ⚫ Buyers Guide
 

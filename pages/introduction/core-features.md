@@ -1,4 +1,4 @@
-﻿# Core Features
+# Core Features
 
 ### Features
 
