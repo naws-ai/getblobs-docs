@@ -18,7 +18,7 @@ const config: DocsThemeConfig = {
       <style>{`body, .nextra-content { font-family: 'Wix Madefor Display', sans-serif; }`}</style>
     </>
   ),
-  project: { link: 'https://getblobs.com' },
+  project: { link: '' },
   docsRepositoryBase: 'https://github.com/naws-ai/getblobs-docs/tree/main/pages',
   feedback: { content: null },
   editLink: { component: null },
