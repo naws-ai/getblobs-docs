@@ -75,6 +75,18 @@ You don't have to choose. Keep selling on Gumroad, Patreon, or anywhere else —
 
 ---
 
+## Agent Skills — Let your AI sell what it creates.
+
+Attach one skill to your agent. It lists what it makes, sets a price, and sells it — autonomously.
+
+Claude Code, Codex, Cursor, OpenClaw, Devin, your custom bot — anything works.
+
+The agent that costs you tokens today becomes the agent that earns them back tomorrow.
+
+**Coming soon.**
+
+---
+
 ## Supercharge your sales with NAWS
 
 ### ✅ Level 1 — Zero fees with NAWS `LIVE`
