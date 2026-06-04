@@ -64,6 +64,17 @@ And if you use the NAWS token ecosystem, even that 3% drops to zero.
 
 ---
 
+## Works alongside your current platform
+
+You don't have to choose. Keep selling on Gumroad, Patreon, or anywhere else — and add GetBlobs as a parallel channel.
+
+- **Reach new markets** — Crypto-native buyers in 190+ countries who can't use cards or PayPal
+- **Earn more per sale** — 0–3% vs. 10–13% on traditional platforms
+- **Get paid faster** — No more waiting for weekly or monthly payouts
+- **Same content, zero extra work** — Upload once, share a second link
+
+---
+
 ## Supercharge your sales with NAWS
 
 ### ✅ Level 1 — Zero fees with NAWS `LIVE`
