@@ -47,7 +47,7 @@ The base fee on GetBlobs is **3% maximum**. No hidden payment processing charges
 
 And if you use the NAWS token ecosystem, even that 3% drops to zero.
 
-**You earn $100, you receive $100. No asterisks.**
+**You earn $100, you receive $100.**
 
 ---
 
