@@ -23,7 +23,7 @@ const config: DocsThemeConfig = {
   feedback: { content: null },
   editLink: { component: null },
   footer: { content: '© GetBlobs' },
-  darkMode: true
+  darkMode: false
 }
 
 export default config
