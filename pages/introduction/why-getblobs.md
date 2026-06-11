@@ -94,12 +94,18 @@ The agent that costs you tokens today becomes the agent that earns them back tom
 Set your receive token to NAWS and your platform fee drops to **0%** immediately.
 No application. No minimum volume. Just toggle and save.
 
-### 🔜 Level 2 — Zero fees for NAWS stakers `COMING SOON`
+### ✅ Level 2 — 5× upload capacity for NAWS holders `LIVE`
+
+Hold NAWS in your wallet and your maximum upload size **automatically expands up to 5×**.
+No staking. No application required.
+Sell large files directly on GetBlobs — no external drive needed.
+
+### 🔜 Level 3 — Zero fees for NAWS stakers `COMING SOON`
 
 Stake NAWS and receive **0% fees on any token** — USDT, BNB, ETH, everything.
 Tier benefits will scale with stake amount and duration.
 
-### 🔜 Level 3 — NAWS Affiliates `COMING SOON`
+### 🔜 Level 4 — NAWS Affiliates `COMING SOON`
 
 Share any creator's sales link. When a purchase happens, earn NAWS as a reward.
 Sellers get free distribution. Affiliates earn by sharing. The ecosystem grows.
